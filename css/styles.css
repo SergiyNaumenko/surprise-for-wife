@@ -121,12 +121,12 @@ li {
 
 /* Header */
 header {
-    background-color: var(--background-head-color);
+    background-color: var(--background-secondary-color);
 }
 
 /* Hero */
 .hero {
-    background-color: var(--background-hero-footer-color);
+    background-color: var(--background-secondary-color);
 }
 .hero-title {
     text-align: center;
@@ -136,7 +136,7 @@ header {
     letter-spacing: 0.06em;
     text-transform: uppercase;
 
-    color: var(--hero-text-color);
+    color: #fba2fc;
 }
 
 /* Button */
